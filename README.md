@@ -3,7 +3,7 @@
 Nessa pagina tu vai aprender ruuby do basico ate aonde eu sei kkkkkk
 simbora
 
-#Capitulo 1 / Uma simples mensagem
+# Capitulo 1 / Uma simples mensagem
 Para imprimir uma simples mensagem no terminal utilizamos o
 ´´´sh
 puts
@@ -18,7 +18,7 @@ Maaas se vc quiser, podemos usar variabeis tambem.
 mensagem = "Oi"
 puts mensagem
 ´´´
-#Capitulo 2 / Variaveis
+# Capitulo 2 / Variaveis
 Bem.. não tem muito oque falar sobre as variaveis. Sao objetos que nao tem um valor fixo (ou seja, que dê para mudar o valor)
 Vai ai um exemplo: 
 ´´´sh
@@ -49,7 +49,7 @@ puts vara + varb
 ´´´sh
 4
 ´´´
-#Capitulo 3 / Pegar e Armazenar respostas
+# Capitulo 3 / Pegar e Armazenar respostas
 Ok ok ta cansado das coisas basicas! Agora vamos para algo mais avançado!
 vamos criar nesse exemplo um chatbot!
 usamos "gets" para pegar uma resposta! mas eu recomendo altamente adicionar .chomp no final ficando
